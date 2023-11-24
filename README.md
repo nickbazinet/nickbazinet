@@ -5,5 +5,5 @@ Always trying to find better way to optimize my day to day job and enjoy working
 - 🔭 Currently working on migrating system to better technology stack and helping developers improving their _DevOps_ mindset
 - 🌱 Currently learning Neovim and go
 - 💬 Always open to discuss and contribute on new projects and ideas
-- 📫 How to reach me: [Anywere](nicolasbazinet.net)  <sub><sup><-- you'll find the information in here</sup></sub>
+- 📫 How to reach me: [Anywere](https://nicolasbazinet.net)  <sub><sup><-- you'll find the information in here</sup></sub>
  
